@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sty6x&label=Profile%20views&color=0e75b6&style=flat" alt="sty6x" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sty6x" alt="sty6x" /></a> </p>
-
 - 🌱 I’m currently learning **ReactJs, NextJs, and TailWind**
 
 - 📫 How to reach me **franzdiaz460@gmail.com**
