@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Franz Diaz</h1>
-<h3 align="center">A FrontEnd Developer from the Philippines</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sty6x&label=Profile%20views&color=0e75b6&style=flat" alt="sty6x" /> </p>
+<h1 align="center">Franz Diaz</h1>
+<h3 align="center">Still Studying Web Development</h3>
 
 - 🌱 I’m currently learning **ReactJs, NextJs, and TailWind**
 
