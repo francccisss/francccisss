@@ -1,7 +1,7 @@
 <h1 align="center">Franz Diaz</h1>
 <h3 align="center">Still Studying Web Development</h3>
 
-- 🌱 I’m currently learning **ReactJs, MongoDB, Nodejs, Expressjs, and TailWind**
+- 🌱 I’m currently learning **ReactJs, MongoDB, Nodejs, Expressjs, Firebase (<3), and TailWind**
 
 - 📫 How to reach me **franzdiaz460@gmail.com**
 
