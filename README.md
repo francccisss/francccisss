@@ -1,5 +1,5 @@
 <h1 align="center">Franz Diaz</h1>
-<h3 align="center">Still Studying Web Development</h3>
+<h3 align="center">FrontEnd Web Developer</h3>
 
 - 🌱 I’m currently learning **ReactJs, MongoDB, Nodejs, Expressjs, Firebase (<3), and TailWind**
 
