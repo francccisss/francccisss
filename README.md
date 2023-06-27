@@ -1,9 +1,9 @@
 <h1 align="center">Franz Diaz</h1>
 <h3 align="center">Frontend Web Developer</h3>
 
-- 🌱 I’m currently learning **ReactJs, MongoDB, Nodejs, Expressjs, Firebase (<3), and TailWind**
+- I’m currently learning **ReactJs, MongoDB, Nodejs, Expressjs, Firebase (<3), and TailWind**
 
-- 📫 How to reach me **franzdiaz460@gmail.com**
+- How to reach me **franzdiaz460@gmail.com**
 
 
 
@@ -13,6 +13,3 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sty6x&show_icons=true&locale=en" alt="sty6x" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sty6x&" alt="sty6x" /></p>
