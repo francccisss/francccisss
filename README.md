@@ -1,9 +1,8 @@
 <h1 align="center">Franz Diaz</h1>
-<h3 align="center">Frontend Web Developer</h3>
+<h3 align="center">Yeet</h3>  
+Currently learning **ReactJs, MongoDB, Nodejs, Expressjs, Firebase and TailWind**    
 
-- I’m currently learning **ReactJs, MongoDB, Nodejs, Expressjs, Firebase (<3), and TailWind**
-
-- How to reach me **franzdiaz460@gmail.com**
+How to reach me **franzdiaz460@gmail.com**  
 
 
 
