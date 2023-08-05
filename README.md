@@ -1,6 +1,7 @@
 <h1 align="center">Franz Diaz</h1>
 <h3 align="center">Yeet</h3>  
-Currently learning **ReactJs, MongoDB, Nodejs, Expressjs, Firebase and TailWind**    
+
+Will code for food.
 
 How to reach me **franzdiaz460@gmail.com**  
 
