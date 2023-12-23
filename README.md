@@ -11,3 +11,6 @@ How to reach me **franzdiaz460@gmail.com**
 - [ ] Operating Systems: Three Easy Pieces
 - [ ] Computer Networking: A Top-Down Approach.
 - [ ] Crafting Interpreters
+
+### Self-Studying Web Development
+- [x] The Odin Project 
