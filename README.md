@@ -9,3 +9,5 @@ How to reach me **franzdiaz460@gmail.com**
 #### teachyourselfcs.com 
 - [ ] Computer Systems: A Programmer's Perspective (Doing)
 - [ ] Operating Systems: Three Easy Pieces
+- [ ] Computer Networking: A Top-Down Approach.
+- [ ] Crafting Interpreters
