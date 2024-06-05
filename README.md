@@ -4,8 +4,9 @@
 
 How to reach me **franzdiaz460@gmail.com**  
 
-
+### Computer Architecture
+- [ ] Nand to Tetris (Doing)
 ### Algorithms
-- [ ] Grokking Algorithms (Doing)
+- [x] Grokking Algorithms (Doing)
 ### Self-Studying Web Development
 - [x] The Odin Project 
