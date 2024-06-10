@@ -4,8 +4,8 @@
 
 How to reach me **franzdiaz460@gmail.com**  
 
-### Computer Architecture
-- [ ] Nand to Tetris (Doing)
+### Computer Networking
+- [ ] Computer Networking: A Top-Down Approach, 7th Edition (doing)
 ### Algorithms
 - [x] Grokking Algorithms (Doing)
 ### Self-Studying Web Development
