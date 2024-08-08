@@ -5,6 +5,8 @@
 How to reach me **franzdiaz460@gmail.com**  
 ### Computer Architecture
 - [ ] Computer Systems: A Programmer's Perspective, Third Edition (doing)
+### Operating Systems
+- [ ] Modern Operating Systems 3rd Edition (doing)
 ### Computer Networking
 - [ ] Computer Networking: A Top-Down Approach, 7th Edition (doing)
 ### Algorithms
