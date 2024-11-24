@@ -8,4 +8,4 @@ How to reach me **franzdiaz460@gmail.com**
 ### Computer Networking
 - [ ] Computer Networking: A Top-Down Approach, 7th Edition (doing)
 ### Compilers/Interpreters
-- [ ] Crafting Interpreters (doing)
+- [ ] Writing an interpreter in Go (doing)
