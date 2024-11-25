@@ -7,5 +7,3 @@ How to reach me **franzdiaz460@gmail.com**
 - [ ] Modern Operating Systems 4th Edition (doing)
 ### Computer Networking
 - [ ] Computer Networking: A Top-Down Approach, 7th Edition (doing)
-### Compilers/Interpreters
-- [ ] Writing an interpreter in Go (doing)
