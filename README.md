@@ -4,6 +4,6 @@
 
 How to reach me **franzdiaz460@gmail.com**  
 ### Operating Systems
-- [ ] Modern Operating Systems 4th Edition (doing)
+- [ ] OSTEP
 ### Computer Networking
 - [ ] Computer Networking: A Top-Down Approach, 7th Edition (doing)
