@@ -6,7 +6,7 @@ infrastructure tooling. Most of what I have built started as a question about ho
 works like one of my magnum opus project; <a href="https://github.com/francccisss/zensearch">Zensearch</a>, a search engine I built in Go and Node.js, came out of wanting to understand
 information retrieval from the ground up.
 
-  <li>Programming mainly in GO while also proficient in Javascript and some C, currently learning python</li>
+  <li>Programming mainly in GO while also a bit of Javascript and some understanding of C, currently learning python</li>
   <li>Currently focused on building <a href="https://github.com/francccisss/zensearch">Zensearch</a> and <a href="https://github.com/francccisss/local-p2p">Local P2P</a> Projects</li>
   <li>Favorite Games are Monster Hunter Wilds, E33, DD2 and Apex Legends</li>
   <li>You can check my LinkedIn <a href="https://www.linkedin.com/in/franz-diaz-a11529294/">LinkedIn</a></li>
