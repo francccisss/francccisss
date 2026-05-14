@@ -8,6 +8,7 @@ information retrieval from the ground up.
 
   <li>Programming mainly in GO while also a bit of Javascript and some understanding of C, currently learning python</li>
   <li>Currently focused on building <a href="https://github.com/francccisss/zensearch">Zensearch</a> and <a href="https://github.com/francccisss/local-p2p">Local P2P</a> Projects</li>
+  <li>Going Through DevOps in <a href="boot.dev">Boot.dev</a> course</li>
   <li>Favorite Games are Monster Hunter Wilds, E33, DD2 and Apex Legends</li>
   <li>You can check my LinkedIn <a href="https://www.linkedin.com/in/franz-diaz-a11529294/">LinkedIn</a></li>
   <li>Currently Reading The Brothers Karamazov By Fyodor Dostoevsky</li>
