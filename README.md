@@ -3,7 +3,7 @@
 
 My work tends to sit at the lower layers of the stack: distributed systems, networking, and
 infrastructure tooling. Most of what I have built started as a question about how something
-works like one of my magnum opus project; <a href="https://github.com/francccisss/zensearch">Zensearch</a>, a search engine I built in Go and Node.js, came out of wanting to understand
+works, like one of my magnum opus project; <a href="https://github.com/francccisss/zensearch">Zensearch</a>, a search engine I built in Go and Node.js, came out of wanting to understand
 information retrieval from the ground up.
 
   <li>Programming mainly in GO while also a bit of Javascript and some understanding of C, currently learning python</li>
